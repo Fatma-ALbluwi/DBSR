@@ -3,6 +3,10 @@ Super-Resolution on Degraded Low-ResolutionImages Using Convolutional Neural Net
 
 # DBSR Network
 
+![dbsrcnn arct](https://user-images.githubusercontent.com/16929158/45629859-4bd2dc80-ba8f-11e8-82f4-409c28a32777.png)
+
+![DBSR_network](https://user-images.githubusercontent.com/16929158/60619236-173ad200-9dd0-11e9-9ff9-2c3c3cefcda7.png)
+
 
 # DBSRCNN-Keras
 This code is to process the blurred low-resolution images to get deblurred high-residual images.
