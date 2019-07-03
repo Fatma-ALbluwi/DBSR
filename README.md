@@ -4,6 +4,8 @@ Super-Resolution on Degraded Low-ResolutionImages Using Convolutional Neural Net
 # DBSR Network
 
 1. **DBSRCNN Network:**
+Image Deblurring And Super-Resolution Using Deep Convolutional Neural Networks,
+F. Albluwi, V. Krylov and R. Dahyot, IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2018 <http://mlsp2018.conwiz.dk/home.htm> ), September 2018, Aalborg, Danemark.
 ![dbsrcnn arct](https://user-images.githubusercontent.com/16929158/45629859-4bd2dc80-ba8f-11e8-82f4-409c28a32777.png)
 
 2. **DBSR Network:**
