@@ -19,9 +19,9 @@ This code is to process the blurred low-resolution images to get deblurred high-
 If this code is helpful for you, please cite this paper: Super-Resolution on Degraded Low-ResolutionImages Using Convolutional Neural Networks, F. Albluwi, V. Krylov and R. Dahyot, 27th European Signal Processing Conference (Eusipco 2019 ), September 2019.
 
 ## Dependencies
-1. Python 3.6.5
-2. TensorFlow 1.1.0.
-3. Keras 2.2.2.
+1. Python 3.6.5, and above.
+2. TensorFlow 1.1.0, and above.
+3. Keras 2.2.2, and above.
 4. Matlab.
 5. Matconvnet. 
 
