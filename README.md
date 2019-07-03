@@ -3,8 +3,11 @@ Super-Resolution on Degraded Low-ResolutionImages Using Convolutional Neural Net
 
 # DBSR Network
 
+1. DBSRCNN Network:
 ![dbsrcnn arct](https://user-images.githubusercontent.com/16929158/45629859-4bd2dc80-ba8f-11e8-82f4-409c28a32777.png)
 
+2. DBSR Network:
+DBSR is an extension of DBSRCNN Network with extra 3 layers to enhance the extracted features inside the network.
 ![DBSR_network](https://user-images.githubusercontent.com/16929158/60619236-173ad200-9dd0-11e9-9ff9-2c3c3cefcda7.png)
 
 
@@ -33,3 +36,8 @@ If this code is helpful for you, please cite this paper: Super-Resolution on Deg
 
 ## Some Qualitative Results
 
+SISR with different models on images after Gaussian blur with different sigma = 2,3. The results show the non-blind and
+blind scenarios. Each result is accompanied by zoom and PSNR(dB). In blind scenarios sigma = [0.5, 3].
+![im1](https://user-images.githubusercontent.com/16929158/60619661-148cac80-9dd1-11e9-852b-f8ab44700a5e.png)
+SISR performance of different models on Butterfly image after Gaussian blur at sigma = 2. In blind scenarios sigma = [0.5, 3].
+![im2](https://user-images.githubusercontent.com/16929158/60619873-911f8b00-9dd1-11e9-8144-d8e8ae9ec90a.png)
