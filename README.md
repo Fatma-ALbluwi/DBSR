@@ -3,10 +3,10 @@ Super-Resolution on Degraded Low-ResolutionImages Using Convolutional Neural Net
 
 # DBSR Network
 
-1. DBSRCNN Network:
+1. **DBSRCNN Network:**
 ![dbsrcnn arct](https://user-images.githubusercontent.com/16929158/45629859-4bd2dc80-ba8f-11e8-82f4-409c28a32777.png)
 
-2. DBSR Network:
+2. **DBSR Network:**
 DBSR is an extension of DBSRCNN Network with extra 3 layers to enhance the extracted features inside the network.
 ![DBSR_network](https://user-images.githubusercontent.com/16929158/60619236-173ad200-9dd0-11e9-9ff9-2c3c3cefcda7.png)
 
