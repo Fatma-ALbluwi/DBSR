@@ -1,5 +1,5 @@
 # DBSR
-Super-Resolution on Degraded Low-ResolutionImages Using Convolutional Neural Networks (DBSR)
+Super-Resolution on Degraded Low-Resolution Images Using Convolutional Neural Networks (DBSR)
 
 # DBSR Network
 
