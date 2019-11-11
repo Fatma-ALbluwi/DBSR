@@ -44,8 +44,8 @@ batch_size = 64
 nb_epoch = 60
 
 #input imaage dimensions
-img_rows, img_cols = 41, 41
-out_rows, out_cols = 41, 41
+img_rows, img_cols = 31, 31
+out_rows, out_cols = 31, 31
 
 
 #.....................................................
